@@ -5,6 +5,7 @@ const nextConfig = {
     serverComponentsExternalPackages: ['mongoose']
   },
   images: {
+    dangerouslyAllowSVG: true,
     domains: ['m.media-amazon.com']
   }
 }

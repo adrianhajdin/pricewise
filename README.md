@@ -114,7 +114,9 @@ MONGODB_URI=
 
 #OUTLOOK
 EMAIL_USER=
-EMAIL_PASS=
+EMAIL_PASS= (It should be app password of outlook account other wise on deploying it will not work and if still the website is not sending email after we deploy on vercel then deploy the website on render it will definately work)
+
+How to generate app password for outlook account - https://www.youtube.com/watch?v=sNkkRFiQ_Tc
 ```
 
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on these specific websites from [BrightData](https://brightdata.com/), [MongoDB](https://www.mongodb.com/), and [Node Mailer](https://nodemailer.com/)

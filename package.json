@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.17",
+    "@headlessui/react": "^2.1.2",
     "axios": "^1.5.1",
     "cheerio": "^1.0.0-rc.12",
     "mongoose": "^7.5.3",
